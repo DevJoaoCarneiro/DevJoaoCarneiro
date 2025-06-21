@@ -12,21 +12,21 @@
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-## 👨‍💻 Sobre Mim
+## 🚀 Sobre Mim
 <p>
-  Olá! Meu nome é João Victor. Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação. Estou sempre buscando aprender mais e aprimorar minhas habilidades, com foco atual no ecossistema Java e em lógica de programação.
+  Olá! Meu nome é João Victor. Desenvolvedor de software focado na resolução de problemas e na criação de sistemas eficientes. Atualmente cursando Análise e Desenvolvimento de Sistemas, com especial interesse desenvolvimento back-end com Java.
 </p>
 
-- 🔭 Atualmente trabalhando em projetos pessoais para aplicar meus conhecimentos.
-- 🌱 Aprofundando meus estudos em desenvolvimento back-end e desktop.
-- 📫 Como me encontrar:
+-  Atualmente trabalhando como estagiario no setor de desenvolvimento na Crefaz e estudando e aplicando em projetos pessoais.
+-  Aprofundando meus estudos em desenvolvimento back-end.
+-  Como me encontrar:
 
 <div align="center"> 
-  <a href="mailto:vcarneiroo2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="vcarneirooo2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaovictor-carneirooo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
 <div align="center">
-  <p>Feito com ❤️ e muito café!</p>
+  <p>João Victor Carneiro | Desenvolvedor de Software</p>
 </div>
