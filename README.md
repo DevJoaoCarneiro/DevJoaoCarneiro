@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/DevJoaoCarneiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoCarneiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoCarneiro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoCarneiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoCarneiro&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div align="center" style="display: inline_block;"><br>
@@ -17,12 +17,12 @@
   Olá! Meu nome é João Victor. Desenvolvedor de software focado na resolução de problemas e na criação de sistemas eficientes. Atualmente cursando Análise e Desenvolvimento de Sistemas, com especial interesse desenvolvimento back-end com Java.
 </p>
 
--  Atualmente trabalhando como estagiario no setor de desenvolvimento na Crefaz e estudando e aplicando em projetos pessoais.
--  Aprofundando meus estudos em desenvolvimento back-end.
--  Como me encontrar:
+- Atualmente trabalhando como estagiario no setor de desenvolvimento na Crefaz e estudando e aplicando em projetos pessoais.
+- Aprofundando meus estudos em desenvolvimento back-end.
+- Como me encontrar:
 
 <div align="center"> 
-  <a href="vcarneirooo2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:vcarneirooo2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovictor-carneirooo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
