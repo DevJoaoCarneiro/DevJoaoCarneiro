@@ -49,7 +49,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, com especial intere
   <a href="https://www.linkedin.com/in/joaovictor-carneirooo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/@seucanal](https://www.youtube.com/@DevJoaoCarneiro/videos" target="_blank">
+  <a href="https://www.youtube.com/@DevJoaoCarneiro/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
 </p>
