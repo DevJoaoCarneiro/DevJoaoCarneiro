@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DevJoaoCarneiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoCarneiro&show_icons=true&theme=dracula&count_private=true&line_color=30A3DC&icon_color=30A3DC&text_color=FFFFFF&bg_color=0D1117" alt="Estatísticas do GitHub de João Victor" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoCarneiro&layout=compact&langs_count=7&theme=dracula&line_color=30A3DC&icon_color=30A3DC&text_color=FFFFFF&bg_color=0D1117" alt="Linguagens Mais Usadas de João Victor" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoCarneiro&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de João Victor" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoCarneiro&layout=compact&theme=dracula" alt="Linguagens Mais Usadas de João Victor" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </p>
 
 ---
@@ -43,13 +43,14 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**, com especial intere
 
 <p align="center">
   <a href="mailto:vcarneirooo2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/joaovictor-carneirooo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@DevJoaoCarneiro/videos" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
