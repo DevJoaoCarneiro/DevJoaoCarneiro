@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DevJoaoCarneiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoCarneiro&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de João Victor" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoCarneiro&layout=compact&theme=dracula" alt="Linguagens Mais Usadas de João Victor" />
+    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=DevJoaoCarneiro&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de João Victor" />
+    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=DevJoaoCarneiro&layout=compact&theme=dracula" alt="Linguagens Mais Usadas de João Victor" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Sou um **desenvolvedor de software** focado em resolver problemas e criar sistem
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, com especial interesse em **desenvolvimento back-end com Java, Spring Boot e .NET**.
 
 - 👨‍💻 Estagiário no setor de **Desenvolvimento da Crefaz**.  
-- 🌱 Aprofundando estudos em **arquitetura de software**, **boas práticas de código** e **integração full-stack**.   
+- 🌱 Aprofundando estudos em **arquitetura de software**, boas práticas de código e integração full-stack.   
 - 🎥 Compartilho minha evolução e projetos no meu canal do **YouTube**.
 
 ---
