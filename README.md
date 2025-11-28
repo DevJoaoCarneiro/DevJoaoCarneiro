@@ -21,8 +21,10 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
 ---
@@ -31,7 +33,7 @@
 
 Olá! Meu nome é **João Victor** 👋  
 Sou um **desenvolvedor de software** focado em resolver problemas e criar sistemas eficientes.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com especial interesse em **desenvolvimento back-end com Java e Spring Boot**.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com especial interesse em **desenvolvimento back-end com Java, Spring Boot e .NET**.
 
 - 👨‍💻 Estagiário no setor de **Desenvolvimento da Crefaz**.  
 - 🌱 Aprofundando estudos em **arquitetura de software**, **boas práticas de código** e **integração full-stack**.   
