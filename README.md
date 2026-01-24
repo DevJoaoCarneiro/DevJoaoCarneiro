@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DevJoaoCarneiro">
-    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=DevJoaoCarneiro&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de João Victor" />
-    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=DevJoaoCarneiro&layout=compact&theme=dracula" alt="Linguagens Mais Usadas de João Victor" />
-  </a>
-</p>
-
 <h3 align="center">Tecnologias e Ferramentas 🛠️</h3>
 
 <p align="center">
